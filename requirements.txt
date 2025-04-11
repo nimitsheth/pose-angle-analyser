@@ -1,0 +1,8 @@
+opencv-python
+numpy
+torch
+mediapipe
+imutils
+tensorflow
+matplotlib
+requests
